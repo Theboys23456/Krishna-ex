@@ -1,0 +1,13 @@
+pyrofork
+aiohttp
+motor
+tgcrypto
+aiofiles
+requests
+hachoir
+cloudscraper
+Unidecode
+pycryptodome
+pytz
+httpx
+bs4
